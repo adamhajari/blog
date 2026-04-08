@@ -1,4 +1,7 @@
-# Running a Self-Hosted LLM on the Recurse Center's Heap Cluster
+---
+layout: post
+title: "Running a Self-Hosted LLM on the RC Cluster"
+---
 
 The Recurse Center has a small computing cluster called the Heap — four bare metal Linux machines donated by a former partner company. Three of them have GPUs. We wanted to see if we could turn one of these machines into a self-hosted LLM server that RC community members could use for privacy-sensitive tasks, like summarizing the daily check-in posts on our internal Zulip chat.
 
