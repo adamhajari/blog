@@ -1,11 +1,9 @@
 # Site settings
 title: adam hajari
-email: adamhajari at gmail
 description: > # this means to ignore newlines until "baseurl:"
   a blog. mostly about python and data.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://adamhajari.com" # the base hostname & protocol for your site
-twitter_username: adamhajari
 github_username:  adamhajari
 
 # Build settings
